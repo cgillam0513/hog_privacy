@@ -4,18 +4,18 @@ App Name: History On the Go \
 Developer: Christopher Gillam \
 Contact: yjjeep1989@gmail.com 
 
-1. Overview \
+1. **Overview** \
 History On the Go (“the App”) is designed to provide location-based audio playback of historical markers as users drive, walk, or bike past them. Your privacy is important to us. This Privacy Policy explains what data we collect, how it is used, and your choices regarding that data.
 
-2. Information We Collect \
-Location Information \
+2. **Information We Collect** \
+*Location Information* \
 The App uses location data to determine when you are near a historical marker. \
 Location access may be used while the app is in use and/or in the background, depending on your settings. \
 Location data is processed on-device and is not stored, tracked over time, or sold. \
-Usage Data (Optional / Aggregate) \
+*Usage Data (Optional / Aggregate)* \
 Basic, anonymous usage statistics may be collected to improve app performance (e.g., number of markers triggered). \
 This data does not personally identify you. \
-Audio & Media \
+*Audio & Media* \
 The App plays audio descriptions of historical markers. \
 The App does not record audio, access your microphone, or collect voice data. 
 
@@ -65,7 +65,7 @@ As the App expands to additional states or features, this Privacy Policy may be 
 12. Contact Us \
 If you have questions or concerns about this Privacy Policy, please contact: \
 Christopher Gillam \
-📧 yjjeep1989@gmail.com \
+📧 yjjeep1989@gmail.com 
 
 13. Compliance Statement \
 This App complies with: \
